@@ -1,0 +1,37 @@
+We value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we handle any data or information collected through the use of our app. Please take the time to read this policy to understand how we process and protect your data.
+
+1. Information Collection and Usage
+
+GP Calculator does not collect or store any personal information from its users. We do not request access to your device's camera, microphone, contacts, or any other sensitive data. The app only requires minimal permissions to function effectively, which includes accessing the necessary data input to calculate your GPA.
+
+2. Data Processing
+
+All calculations performed within GP Calculator are done locally on your device. We do not send any data to external servers or third-party services. The information provided by the user is used solely for the purpose of calculating the GPA and is not shared with any other entity.
+
+3. Cookies and Similar Technologies
+
+GP Calculator does not use cookies or any similar tracking technologies. We do not track your usage behavior, and we do not employ any advertising or analytics services.
+
+4. Third-Party Services
+
+As GP Calculator does not collect or share any user data, we do not integrate or use any third-party services within the app. Your information remains secure and private within the confines of your device.
+
+5. Children's Privacy
+
+GP Calculator is intended for general use and does not target children under the age of 13. We do not knowingly collect any information from users who are under 13 years of age. If a parent or guardian becomes aware that their child has provided us with personal information, please contact us, and we will take appropriate steps to remove such information from our records.
+
+6. Security
+
+We take the security of your data seriously. GP Calculator implements industry-standard security measures to safeguard the app and the data processed within it. However, it's important to note that no method of transmission or storage over the internet or electronic means is 100% secure. While we strive to use commercially acceptable means to protect your data, we cannot guarantee absolute security.
+
+7. Changes to the Privacy Policy
+
+In the event of any changes to this Privacy Policy, we will notify users within the app or through other appropriate means. It is advisable to periodically review this policy to stay informed about how we handle your data.
+
+8. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or the GP Calculator app, please feel free to contact us at pycify@gmail.com.
+
+Date of Last Revision: July 31, 2023.
+
+By using GP Calculator, you agree to the terms and conditions outlined in this Privacy Policy. Your continued use of the app after any modifications to the policy will constitute your acknowledgment of the modifications and your consent to abide and be bound by the updated Privacy Policy.
