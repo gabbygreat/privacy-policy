@@ -1,0 +1,27 @@
+
+Privacy Policy for ANSFS (Emergency Numbers for Fire Services)
+
+Effective Date: 9th January 2023
+
+Overview:
+The ANSFS (Emergency Numbers for Fire Services) mobile application is committed to protecting user privacy. This Privacy Policy outlines how the app collects, uses, and safeguards information when you use our services. By downloading and using ANSFS, you agree to the terms outlined in this policy.
+
+Information Collection:
+
+No Personal Information: ANSFS does not require any user signup or collection of personal information.
+Location Information: The app may access your device's location to provide relevant fire stations in Anambra state. This information is not stored or shared.
+Information Usage:
+
+Providing Emergency Contacts: ANSFS uses your location to display a list of nearby fire stations in Anambra state to assist users during emergencies.
+No Third-Party Sharing: We do not share any user information with third parties.
+Security:
+
+Data Security: While ANSFS accesses your location, it does not store or transmit any personal information. Your privacy is our priority.
+Updates and Changes:
+
+Policy Updates: ANSFS may update this Privacy Policy to reflect changes in our practices. Users will be notified of any significant updates.
+Contact Us:
+If you have questions or concerns regarding this Privacy Policy, please contact us at [email@example.com].
+
+Acknowledgment:
+By using ANSFS, you acknowledge and agree to the terms outlined in this Privacy Policy.
